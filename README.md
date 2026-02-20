@@ -1,8 +1,4 @@
-</div>
-<h1 align="center">Marketing Campaign Analysis</h1>
-<table align="center">
-
-# Project Background
+## 📂 Project Background
 Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
 
 Insights and recommendations are provided on the following key areas:
@@ -20,7 +16,7 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 
 
 
-# Data Structure & Initial Checks
+## Data Structure & Initial Checks
 
 The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
 - **Table 2:**
@@ -32,7 +28,7 @@ The companies main database structure as seen below consists of four tables: tab
 
 
 
-# Executive Summary
+## Executive Summary
 
 ### Overview of Findings
 
@@ -42,7 +38,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 
 
-# Insights Deep Dive
+## Insights Deep Dive
 ### Category 1:
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
@@ -96,7 +92,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 
 
-# Recommendations:
+## Recommendations:
 
 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
 
