@@ -38,6 +38,23 @@ The company’s main database structure, as seen below, consists of seven tables
 
 **4. Regional Performance**: Birmingham records the highest Conversion Rate and ROAS. This region demonstrates the strongest performance among all cities.
 
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 33.33%; text-align: center;">
+      <img src="images/Dashboard-1.png" alt="Dashboard 1" width="100%">
+      <p><i>Campaign</i></p>
+    </td>
+    <td style="width: 33.33%; text-align: center;">
+      <img src="images/Dashboard-2.png" alt="Dashboard 2" width="100%">
+      <p><i>Channel & Device</i></p>
+    </td>
+    <td style="width: 33.33%; text-align: center;">
+      <img src="images/Dashboard-3.png" alt="Dashboard 3" width="100%">
+      <p><i>Region & Time</i></p>
+    </td>
+  </tr>
+</table>
+
 ## 👀 Insights Deep Dive
 ### Campaign
 
@@ -45,16 +62,14 @@ The company’s main database structure, as seen below, consists of seven tables
 - Overall, the company spent a total of £163.3K on the campaign, with an average month-over-month (MoM) decrease of 4.3%. The greatest cost drop was from the Spring campaign to the Summer campaign (35%). In contrast, the budget was expanded by 1.3 times at the end of the Summer campaign, rising from £11K in August to £27K in September.
 - The campaign generated £1.73 million in revenue, with a MoM increase of 1.8%. The most significant rise was from August (£157K) to September (£236K), indicating an increase in conversion thanks to the increased expenditure.
 - However, regarding the return on ad spend (ROAS), a 45% rise was witnessed from May to June, while there was a 37% decrease from August to September. This suggests that although the number of buyers rose, the budget was not well distributed and there was a waste of money.
-<table border="0" style="width: 100%; text-align: center;">
+
+<table border="0" style="width: 100%;">
   <tr>
-    <td style="width: 50%; vertical-align: top;">
-      <img width="289" src="https://github.com/user-attachments/assets/81665a66-dc25-449e-ad86-496c38ae1f4c" />
-      <p><b>Overall Cost & Revenue</b><br>
+    <td align="center">
+      <img src="images/{AB8398F7-6A08-4674-969B-5C9D59A3A5FC}.png" alt="Ảnh 1" width="100%" />
     </td>
-    
-    <td style="width: 50%; vertical-align: top;">
-      <img width="421" height="144" alt="{8CFD6134-FCE2-4192-8F98-D2384B396F8A}" src="https://github.com/user-attachments/assets/e7019a18-0dba-4c76-a550-afa4c4ba1cca" />
-      <p><b>Cost and Revenue Breakdown</b><br>
+    <td align="center">
+      <img src="images/{ED72BE2C-6B46-4D9D-88E7-43082599BAD4}.png" alt="Ảnh 2" width="100%" />
     </td>
   </tr>
 </table>
@@ -62,10 +77,23 @@ The company’s main database structure, as seen below, consists of seven tables
 **2. Ad Performance** 
 - Based on impressions and clicks, the Fall campaign performed the strongest, followed by Spring and then Summer. This trend aligns with how the budget was allocated across campaigns, with higher spend driving higher visibility and engagement.
 - However, when looking at conversion rates, the Summer period performed best, with an average conversion rate of 32.9%. This is nearly double that of Fall, which recorded only 17.5%, indicating that higher spending did not translate into proportional conversions and suggests cost inefficiency during the Fall campaign.
+
+<table border="0" style="width: 100%;">
+  <tr>
+    <td align="center">
+      <img src="images/{8F3E730D-5C4D-401A-80FE-FE32320272F2}.png" alt="Ảnh 1" width="100%" />
+      <p><i>Total Impressions by Month</i></p>
+    </td>
+    <td align="center">
+      <img src="images/{2E56929C-949E-45D2-8492-9FF73F4B2E37}.png" alt="Ảnh 2" width="100%" />
+      <p><i>Conversion Rate by Month</i></p
+    </td>
+  </tr>
+</table>
+
 - There is a negative relationship between click-through rate and conversion rate. While users show interest by clicking on the ads, this interest does not consistently lead to conversions. This suggests that the messaging or call to action may not be strong or clear enough, indicating a need to refine ad content and format.
-
-[Visualization specific to category 1]
-
+<p align="center">
+<img src="images/{A755753D-A1ED-4F74-8C25-37A99450125A}.png" width="50%" />
 
 ### Channel & Device
 
