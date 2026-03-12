@@ -104,9 +104,8 @@ The company’s main database structure, as seen below, consists of seven tables
 - Instagram generates the highest total conversion value (£684), despite moderate costs. This likely reflects higher average order value or stronger monetisation per conversion, making it a key channel to sustain and potentially scale for revenue growth.
       
 2. **Device**
-- Desktop consistently achieved a 2–5% higher conversion rate than mobile across all three seasonal campaigns.
-- Total conversion value is relatively similar by device; however, desktop generated higher revenue (£949.7K) than mobile (£782K). This indicates stronger transaction performance on desktop, suggesting priority allocation toward desktop while optimising the mobile journey.
-- The performance gap may be driven by mobile-specific friction points (e.g., landing page usability or payment issues), which require further analysis before structural budget changes.
+- Desktop consistently achieved higher conversion rate than mobile across all three seasonal campaigns, by about 2-5%.
+- Total conversion value is relatively similar by device; however, desktop generated higher revenue (£949.7K) than mobile (£782K). This indicates stronger transaction performance on desktop, suggesting priority allocation toward desktop while optimising the mobile journey. The performance gap may be driven by mobile-specific friction points (e.g., landing page usability or payment issues), which require further analysis before structural budget changes.
       
 [Visualization specific to category 2]
 
@@ -120,7 +119,8 @@ The company’s main database structure, as seen below, consists of seven tables
     
 **2. Time**
    
-Conversion rates are highest during the first half of the week (Mon - Thur), at about 22%. However, ROAS does not follow the same pattern, as it peaks on Tuesday (10.87) and then declines before rising again on Sunday (10.78). This suggests that the variation is likely driven by differences in average order value rather than advertising performance only. Therefore, high-value products should be prioritized for retargeting on days with higher conversion rates throughout the week.
+- Conversion rates are highest during the first half of the week (Mon - Thur), at about 22%. However, ROAS does not follow the same pattern, as it peaks on Tuesday (10.87) and then declines before rising again on Sunday (10.78).
+- This suggests that the variation is likely driven by differences in average order value rather than advertising performance only. Therefore, high-value products should be prioritized for retargeting on days with higher conversion rates throughout the week.
 
 [Visualization specific to category 3]
 
