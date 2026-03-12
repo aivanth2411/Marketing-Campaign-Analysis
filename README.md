@@ -102,27 +102,71 @@ The company’s main database structure, as seen below, consists of seven tables
 - Pinterest is the most cost-efficient platform, delivering the lowest CPM (£6.47), CPC (£0.66), and CPA (£2.45), alongside the highest conversion rate (26.8%). This indicates strong purchase intent and effective audience alignment.
 - Facebook underperforms relative to spend, with the highest CPM (£13.17) and CPA (£5.45), and the lowest conversion rate (18.8%). This suggests inefficiencies in targeting or creative strategy and warrants optimisation.
 - Instagram generates the highest total conversion value (£684), despite moderate costs. This likely reflects higher average order value or stronger monetisation per conversion, making it a key channel to sustain and potentially scale for revenue growth.
+
+<table border="0" style="width: 100%;">
+  <tr>
+    <td align="center">
+      <img src="images/{8A4ACA4C-0AA5-4472-BE49-4E7D4BB27849}.png" alt="Ảnh 1" width="100%" />
+      <p><i>CPM by Channel</i></p>
+    </td>
+    <td align="center">
+      <img src="images/{E162C015-6CCD-431B-8A26-190AD9B21297}.png" alt="Ảnh 2" width="100%" />
+      <p><i>CPA by Channel</i></p
+    </td>
+  </tr>
+</table>
+
+<table border="0" style="width: 100%;">
+  <tr>
+    <td align="center">
+      <img src="images/{891E93D6-A6BA-418A-B47E-78D6F95EB220}.png" alt="Ảnh 1" width="100%" />
+    </td>
+    <td align="center">
+      <img src="images/{5DFD2316-7813-4495-B325-DCA1C1015960}.png" alt="Ảnh 2" width="100%" />
+    </td>
+  </tr>
+</table>
       
-2. **Device**
+**2. Device**
 - Desktop consistently achieved higher conversion rate than mobile across all three seasonal campaigns, by about 2-5%.
 - Total conversion value is relatively similar by device; however, desktop generated higher revenue (£949.7K) than mobile (£782K). This indicates stronger transaction performance on desktop, suggesting priority allocation toward desktop while optimising the mobile journey. The performance gap may be driven by mobile-specific friction points (e.g., landing page usability or payment issues), which require further analysis before structural budget changes.
       
-[Visualization specific to category 2]
+<table border="0" style="width: 100%;">
+  <tr>
+    <td align="center">
+      <img src="images/{9CF9892C-2AB5-4F57-A8E5-0084B8346BDF}.png" width="100%" />
+    </td>
+    <td align="center">
+      <img src="images/{62A6DAFD-24F9-4A6B-8D91-8245179A77D2}.png" alt="Ảnh 2" width="100%" />
+    </td>
+  </tr>
+</table>
 
 
 ### Region & Time
 
 **1. Region and Ad format**
-  - London requires the highest spend (£532,011) with low proportional returns, only 7.98 in ROAS.  Meanwhile, Manchester generates the highest revenue, approximately £100K more than Birmingham. This city operates at the lowest cost (£39,484) while delivering the highest ROAS and conversion rate, indicating strong efficiency despite the money spent.
-  - When comparing click-through rate and conversion rate across the two ad formats, both achieved a similar CTR of around 1%. However, the Discount format delivered a significantly higher conversion rate (28%) compared to the Collection format (18%). This indicates that while users are equally interested in both formats, they are more likely to convert when a discount is offered.
-  - The Instagram – Desktop – Discount format combination shows the strongest performance, generating the highest conversion value at £255,071, indicating strong potential for further investment.
+- London requires the highest spend (£532,011) with low proportional returns, only 7.98 in ROAS.  Meanwhile, Manchester generates the highest revenue, approximately £100K more than Birmingham. This city operates at the lowest cost (£39,484) while delivering the highest ROAS and conversion rate, indicating strong efficiency despite the money spent.
+- When comparing click-through rate and conversion rate across the two ad formats, both achieved a similar CTR of around 1%. However, the Discount format delivered a significantly higher conversion rate (28%) compared to the Collection format (18%). This indicates that while users are equally interested in both formats, they are more likely to convert when a discount is offered.
+- The Instagram – Desktop – Discount format combination shows the strongest performance, generating the highest conversion value at £255,071, indicating strong potential for further investment.
+
+<table border="0" style="width: 100%;">
+  <tr>
+    <td align="center">
+      <img src="images/{BD939413-0C92-4765-89B0-C1A9C7CD3B9F}.png" alt="Ảnh 1" width="100%" />
+    </td>
+    <td align="center">
+      <img src="images/{6C0763BE-6E4B-4B13-86DA-874796B484EE}.png" alt="Ảnh 2" width="100%" />
+    </td>
+  </tr>
+</table>
     
 **2. Time**
-   
 - Conversion rates are highest during the first half of the week (Mon - Thur), at about 22%. However, ROAS does not follow the same pattern, as it peaks on Tuesday (10.87) and then declines before rising again on Sunday (10.78).
 - This suggests that the variation is likely driven by differences in average order value rather than advertising performance only. Therefore, high-value products should be prioritized for retargeting on days with higher conversion rates throughout the week.
 
-[Visualization specific to category 3]
+<p align="center">
+<img src="images/{1746112E-1593-40F3-A139-02B5317F088D}.png" width="50%" />
 
 ## ✨ Recommendations:
 
