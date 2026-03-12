@@ -1,3 +1,6 @@
+<p align="center">
+<img width="209" height="175" alt="{9F89C356-0CC2-478F-A5D5-2E652A75D225}" src="https://github.com/user-attachments/assets/e4bb6708-d538-4669-9b6c-cf155a16780d" width="70%">
+
 ## 📂 Project Background
 
 Sterling & Co. is a sample UK-based retail business specializing in clothing and accessories. In 2023, the company executed a seasonal marketing campaign utilizing two primary ad formats (Collection Ads and Discount Ads) across three social media channels in the UK: Facebook, Instagram, and Pinterest.
