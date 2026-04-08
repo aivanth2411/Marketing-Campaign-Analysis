@@ -1,0 +1,9 @@
+// -----------------------------------------
+// CORE METRICS
+// -----------------------------------------
+
+// Tính tổng số lượt click từ bảng marketing
+TotalClicks = SUM(fact_mkt[clicks])
+
+// Tính tổng chi phí (ví dụ thêm)
+TotalSpend = SUM(fact_mkt[spend])
