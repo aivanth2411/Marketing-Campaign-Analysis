@@ -1,3 +1,6 @@
+## Core Metrics (DAX)
+
+```DAX
 // -----------------------------------------
 // CORE METRICS
 // -----------------------------------------
@@ -7,3 +10,4 @@ TotalClicks = SUM(fact_mkt[clicks])
 
 // Tính tổng chi phí (ví dụ thêm)
 TotalSpend = SUM(fact_mkt[spend])
+```
