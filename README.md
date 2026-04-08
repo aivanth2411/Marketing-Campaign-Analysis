@@ -88,7 +88,7 @@ The company’s main database structure, as seen below, consists of seven tables
       <p><i>Total Impressions by Month</i></p>
     </td>
     <td align="center">
-      <img src="images/{2E56929C-949E-45D2-8492-9FF73F4B2E37}.png" alt="Ảnh 2" width="100%" />
+      <img src="images/Campaign Performance overview" alt="Ảnh 2" width="100%" />
       <p><i>Conversion Rate by Month</i></p
     </td>
   </tr>
@@ -169,7 +169,7 @@ The company’s main database structure, as seen below, consists of seven tables
 - This suggests that the variation is likely driven by differences in average order value rather than advertising performance only. Therefore, high-value products should be prioritized for retargeting on days with higher conversion rates throughout the week.
 
 <p align="center">
-<img src="images/Campaign Performance overview" width="50%" />
+<img src="images/Campaign Efficiency by Day of week" width="50%" /> 
 
 ## ✨ Recommendations:
 
