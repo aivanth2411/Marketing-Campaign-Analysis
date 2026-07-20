@@ -194,3 +194,7 @@ Based on the insights and findings above, we would recommend the Marketing team 
 - Optimize advertising efficiency in London by refining audience targeting and testing localized creatives.
 - Gradually increase budget allocation in Birmingham, as it demonstrates strong ROAS and conversion efficiency despite lower spending.
 - Allocating more resources to high-performing regions while optimizing targeting in lower-performing markets.
+
+## Deliverables
+- `scripts/MktCampaign_Data.csv`: Orginal dataset
+- `scripts/Marketing Campaign Analysis.pbix`: Power BI Dashboard 
