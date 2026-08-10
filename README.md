@@ -1,7 +1,7 @@
 <p align="center">
 <img width="209" height="175" alt="{9F89C356-0CC2-478F-A5D5-2E652A75D225}" src="https://github.com/user-attachments/assets/e4bb6708-d538-4669-9b6c-cf155a16780d" width="70%">
 
-View full dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiOGI1MGQxNDQtODY0OS00NjJjLWJiZTUtZWM3MGVkYWIzNDM1IiwidCI6ImJlODMyOWE3LTcyMTgtNDlhMy05YWMxLWQ3Yjk1NDU2M2YzOSIsImMiOjEwfQ%3D%3D).
+View full Power BI dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiOGI1MGQxNDQtODY0OS00NjJjLWJiZTUtZWM3MGVkYWIzNDM1IiwidCI6ImJlODMyOWE3LTcyMTgtNDlhMy05YWMxLWQ3Yjk1NDU2M2YzOSIsImMiOjEwfQ%3D%3D).
 
 ## 📂 Project Background
 
@@ -19,7 +19,7 @@ Reporting to the Head of Marketing, this in-depth analysis evaluates Sterling & 
 
 The company’s main database structure, as seen below, consists of seven tables: dim_ad, dim_campaign, dim_calendar, dim_channel, dim_device, dim_region, fact_mkt, with a total row count of 9,900 records. A description of each table is as follows:
 
-- `dim_ad`: Ad format types – Collection Ads (product showcase) and Discount Ads (sales and promotional offers).
+- `dim_ad`: Ad format types, including Collection Ads (product showcase) and Discount Ads (sales and promotional offers).
 - `dim_campaign`: Campaign categories categorized by season.
 - `dim_calendar`: Date dimension.
 - `dim_channel`: Social media channels (Facebook, Instagram, Pinterest).
