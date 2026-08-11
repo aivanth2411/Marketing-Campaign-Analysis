@@ -173,7 +173,7 @@ The company’s main database structure, as seen below, consists of seven tables
 <p align="center">
 <img src="images/Campaign Efficiency by Day of week" width="50%" /> 
 
-## ✨ Recommendations:
+## ✨ Recommendations
 
 Based on the insights and findings above, we would recommend the Marketing team to consider the following:
 
